@@ -1,53 +1,116 @@
-<h2>LICENSING TERMS FOR DETECTION TOOL FOR PLUGX MALWARE</h2>
+CC0 1.0 Universal
 
-<h2>COPYRIGHT NOTICE:</h2>The Detection Tool for PlugX Malware (Technology) is a work developed by the U.S. Government Agency and its contractors and provided to the Department of Homeland Security, Office of Cybersecurity and Communications (CS&C). Pursuant to Federal Acquisition Regulation, the United States. Pursuant
-to Federal Acquisition Regulation, the United States Government  has unlimited rights in the copyright in the Technology,
-which is sufficient to allow end users to download, access, install, copy and use the Technology for its intended purpose. 
-The Technology is subject to United States Copyright law. 
+Statement of Purpose
 
-<h2>REDISTRIBUTION NOTICE:</h2>
-The Technology may be redistributed
-and used in source and binary forms, with or without modification, provided the
-following conditions are met:
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator and
+subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
 
-<ol type="1">
-<li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+Certain owners wish to permanently relinquish those rights to a Work for the
+purpose of contributing to a commons of creative, cultural and scientific
+works ("Commons") that the public can reliably and without fear of later
+claims of infringement build upon, modify, incorporate in other works, reuse
+and redistribute as freely as possible in any form whatsoever and for any
+purposes, including without limitation commercial purposes. These owners may
+contribute to the Commons to promote the ideal of a free culture and the
+further production of creative, cultural and scientific works, or to gain
+reputation or greater distribution for their Work in part through the use and
+efforts of others.
 
-<li>Redistribution in binary form must reproduce the above copyright notice, this list of conditions and the disclaimer in the documentation and/or other materials
-provided with the distribution.</li>
+For these and/or other purposes and motivations, and without any expectation
+of additional consideration or compensation, the person associating CC0 with a
+Work (the "Affirmer"), to the extent that he or she is an owner of Copyright
+and Related Rights in the Work, voluntarily elects to apply CC0 to the Work
+and publicly distribute the Work under its terms, with knowledge of his or her
+Copyright and Related Rights in the Work and the meaning and intended legal
+effect of CC0 on those rights.
 
-<li>The name of the  U.S. Government, Department of Homeland Security, Office of Cybersecurity and Communications (CS&C), or of its contractors and other contributors may not be used to endorse or promote products derived from use of this software without specific prior written permission.</li>
-</ol>
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not limited
+to, the following:
 
-<h2>DISCLAIMER OF LIABILITY NOTICE:</h2>
-The United States Government shall be not be liable or responsible for any maintenance or
-updating of the provided Technology, nor for correction of any errors in the Technology.
+  i. the right to reproduce, adapt, distribute, perform, display, communicate,
+  and translate a Work;
 
-THE TECHNOLOGY AND
-THE LICENSING TERMS ARE PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND,
-EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY
-WARRANTY THAT THE TECHNOLOGY OR THE LICENSING TERMS WILL CONFORM TO SPECIFICATIONS,
-ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-FREEDOM FROM INFRINGEMENT, ANY WARRANTY THAT THE WILL BE ERROR FREE, TECHNOLOGY
-OR ANY WARRANTY THAT THE DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE TECHNOLOGY
-AND THE LICENSING TERMS.  IN NO EVENT
-SHALL THE UNITED STATES GOVERNMENT OR ITS CONTRACTORS OR SUBCONTRACTORS BE
-LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT,
-SPECIAL OR CONSEQUENTIAL DAMAGES, ARISING OUT OF, RESULTING FROM, OR IN ANY WAY
-CONNECTED WITH THE TECHNOLOGY OR THE LICENSING TERMS OR ANY OTHER PROVIDED
-DOCUMENTATION, WHETHER OR NOT BASED UPON WARRANTY, CONTRACT, TORT, OR
-OTHERWISE, WHETHER OR NOT INJURY WAS SUSTAINED BY PERSONS OR PROPERTY OR
-OTHERWISE, AND WHETHER OR NOT LOSS WAS SUSTAINED FROM, OR AROSE OUT OF THE
-RESULTS OF, OR USE OF, THE TECHNOLOGY OR THE LICENSING TERMS OR ANY PROVIDED
-DOCUMENTATION. THE UNITED STATES GOVERNMENT DISCLAIMS ALL WARRANTIES AND
-LIABILITIES REGARDING THIRD PARTY SOFTWARE, IF PRESENT IN THE TECHNOLOGY, AND
-DISTRIBUTES IT "AS IS."
+  ii. moral rights retained by the original author(s) and/or performer(s);
 
-RECIPIENT
-AGREES TO WAIVE ANY AND ALL CLAIMS AGAINST THE U.S. GOVERNMENT AND THE UNITED
-STATES GOVERNMENT'S CONTRACTORS AND SUBCONTRACTORS, AND SHALL INDEMNIFY AND
-HOLD HARMLESS THE U.S. GOVERNMENT AND THE UNITED STATES GOVERNMENT'S
-CONTRACTORS AND SUBCONTRACTORS FOR ANY LIABILITIES, DEMANDS, DAMAGES, EXPENSES,
-OR LOSSES THAT MAY ARISE FROM RECIPIENT'S USE OF THE TECHNOLOGY OR THE
-LICENSING TERMS OR PROVIDED DOCUMENTATION, INCLUDING ANY LIABILITIES OR DAMAGES
-FROM PRODUCTS BASED ON, OR RESULTING FROM, THE USE THEREOF.
+  iii. publicity and privacy rights pertaining to a person's image or likeness
+  depicted in a Work;
+
+  iv. rights protecting against unfair competition in regards to a Work,
+  subject to the limitations in paragraph 4(a), below;
+
+  v. rights protecting the extraction, dissemination, use and reuse of data in
+  a Work;
+
+  vi. database rights (such as those arising under Directive 96/9/EC of the
+  European Parliament and of the Council of 11 March 1996 on the legal
+  protection of databases, and under any national implementation thereof,
+  including any amended or successor version of such directive); and
+
+  vii. other similar, equivalent or corresponding rights throughout the world
+  based on applicable law or treaty, and any national implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention of,
+applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and
+unconditionally waives, abandons, and surrenders all of Affirmer's Copyright
+and Related Rights and associated claims and causes of action, whether now
+known or unknown (including existing as well as future claims and causes of
+action), in the Work (i) in all territories worldwide, (ii) for the maximum
+duration provided by applicable law or treaty (including future time
+extensions), (iii) in any current or future medium and for any number of
+copies, and (iv) for any purpose whatsoever, including without limitation
+commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes
+the Waiver for the benefit of each member of the public at large and to the
+detriment of Affirmer's heirs and successors, fully intending that such Waiver
+shall not be subject to revocation, rescission, cancellation, termination, or
+any other legal or equitable action to disrupt the quiet enjoyment of the Work
+by the public as contemplated by Affirmer's express Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason be
+judged legally invalid or ineffective under applicable law, then the Waiver
+shall be preserved to the maximum extent permitted taking into account
+Affirmer's express Statement of Purpose. In addition, to the extent the Waiver
+is so judged Affirmer hereby grants to each affected person a royalty-free,
+non transferable, non sublicensable, non exclusive, irrevocable and
+unconditional license to exercise Affirmer's Copyright and Related Rights in
+the Work (i) in all territories worldwide, (ii) for the maximum duration
+provided by applicable law or treaty (including future time extensions), (iii)
+in any current or future medium and for any number of copies, and (iv) for any
+purpose whatsoever, including without limitation commercial, advertising or
+promotional purposes (the "License"). The License shall be deemed effective as
+of the date CC0 was applied by Affirmer to the Work. Should any part of the
+License for any reason be judged legally invalid or ineffective under
+applicable law, such partial invalidity or ineffectiveness shall not
+invalidate the remainder of the License, and in such case Affirmer hereby
+affirms that he or she will not (i) exercise any of his or her remaining
+Copyright and Related Rights in the Work or (ii) assert any associated claims
+and causes of action with respect to the Work, in either case contrary to
+Affirmer's express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+  a. No trademark or patent rights held by Affirmer are waived, abandoned,
+  surrendered, licensed or otherwise affected by this document.
+
+  b. Affirmer offers the Work as-is and makes no representations or warranties
+  of any kind concerning the Work, express, implied, statutory or otherwise,
+  including without limitation warranties of title, merchantability, fitness
+  for a particular purpose, non infringement, or the absence of latent or
+  other defects, accuracy, or the present or absence of errors, whether or not
+  discoverable, all to the greatest extent permissible under applicable law.
+
+  c. Affirmer disclaims responsibility for clearing rights of other persons
+  that may apply to the Work or any use thereof, including without limitation
+  any person's Copyright and Related Rights in the Work. Further, Affirmer
+  disclaims responsibility for obtaining any necessary consents, permissions
+  or other rights required for any use of the Work.
+
+  d. Affirmer understands and acknowledges that Creative Commons is not a
+  party to this document and has no duty or obligation with respect to this
+  CC0 or use of the Work.
+
+For more information, please see
+<http://creativecommons.org/publicdomain/zero/1.0/>
